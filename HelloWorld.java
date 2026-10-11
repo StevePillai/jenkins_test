@@ -1,5 +1,5 @@
 // The file name must exactly match the public class name (HelloWorld.java)
-public class HelloWorldl {
+public class HelloWorld {
     
     // The main method is the entry point of any Java application
     public static void main(String[] args) {
